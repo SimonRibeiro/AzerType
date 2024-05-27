@@ -9,11 +9,9 @@ console.log("Hello World!")
 
 
 
-// Si “motTapé identique à motProposé” == “vrai”
+// Si “motTapé" == "motProposé”
 
 // Alors “++score”
-
-// Sinon “rien”
 
 
 
